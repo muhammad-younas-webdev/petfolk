@@ -1191,6 +1191,11 @@ a {
   border-radius: 16px;
   object-fit: cover;
   object-position: center;
+
+  img {
+    height: 100%;
+    object-fit: cover;
+  }
 }
 
 .Meet_Experts_title {
