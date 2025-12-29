@@ -1181,7 +1181,7 @@ a {
   height: 320px;
   overflow: hidden;
   margin-bottom: 24px;
-  aspect-ratio: 1 / 1;
+  aspect-ratio: 37 / 40;
 }
 
 .Meet_Experts_card_img {
@@ -1194,7 +1194,7 @@ a {
   object-position: center;
 
   img {
-    /* height: 100%; */
+    height: 100%;
     object-fit: cover;
   }
 }
